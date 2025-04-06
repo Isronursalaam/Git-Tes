@@ -1,2 +1,2 @@
 # Git-Tes
-reppo remot
+Ini adalah uji coba remot git pertamakali saya
